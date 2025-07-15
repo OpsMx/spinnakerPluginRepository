@@ -1,6 +1,6 @@
 [
     {
-    "id": "Opsmx.VerificationGatePlugin",
+    "id": "Opsmx.OrcaPipelineValidatePlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
@@ -8,85 +8,10 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "f08f7cd08788f336a908e9e657e0a841af30b99aacb0eff4b85cb772326288fc1b3449a43ed4364b4f3aca8a9977b842ca5eb8d6bd1d9506c2837ea249493aee",
+        "sha512sum": "62c7a81a6bb8711cd4492841b7390a4aa93a5ed8802cfe54c6da2dc6e97fc42f979d13daa5ce73bcfeac3a713c84d9d7b3b9fc2b35e86162faf4bff67a134d94",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/OrcaPipelineValidatePlugin-v1.0.1-SNAPSHOT.zip"
       }
-    ]
-  },
-  {
-    "id": "Opsmx.TestVerificationGatePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-25T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "32deccfb09bf6ee556e3ba486726eef0466a92351aca980a31d454505813eb1d2bf4256dbb2e2f95b8829dcd655102999311056a3ff7a2028d791e3d97227aed",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.VisibilityApprovalPlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-20T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "4831f2fca7e26c05ea4e1cc67f92ceecaf2af28428555382ea05271e064834f64f9afaf220bc208da8ca2cbf47e41e0355f8b87d16ca394cf4bb3eb1c87bd82a",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.PolicyGatePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-25T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "5c075715e9d99a3c5a90586a42a51d8c856b6870b9fc9b93a994b96263a6dc36b48ee91c7b04db50093e905fab1612420227b7f52a20849b3edeb066670b406f",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/policyPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.RbacPlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-25T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "befe3014dc0bc425f76f129ae133b9b7ff58c56e9d9aa68cbceb80c479ebb63cb56d1137938af0e71fa3f8953640788064f85cbde21aee1572fae846df790e03",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/RbacPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.EchoEventPlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-        {
-            "version": "1.0.1",
-            "date": "2021-06-24T16:20:59.469168Z",
-            "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "43d2152fcc7e70ac95253e777f87003683bad1d748007060a1584fd62b01572aa38277ebbf2055a968b0e6a0b9ecfc1eb2279db09bd1edb02b259734ffafc450",
-            "state": "",
-            "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
-        }
     ]
   }
 ]
