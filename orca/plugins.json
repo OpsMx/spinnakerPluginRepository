@@ -1,0 +1,32 @@
+[
+{
+  "id": "Opsmx.RuntimePolicyPlugin",
+  "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+  "provider": "https://github.com/opsmx",
+  "releases": [
+    {
+      "version": "1.0.3",
+      "date": "2023-12-18T14:38:21.071875Z",
+      "requires": "orca>=0.0.0",
+      "sha512sum": "",
+      "state": "",
+      "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/OrcaPolicyPlugin-v1.0.3-SNAPSHOT.zip"
+    }
+  ]
+},
+{
+  "id": "Opsmx.StaticPolicyPlugin",
+  "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+  "provider": "https://github.com/opsmx",
+  "releases": [
+    {
+      "version": "1.0.2",
+      "date": "2023-12-18T14:38:21.071875Z",
+      "requires": "front50>=0.0.0",
+      "sha512sum": "",
+      "state": "",
+      "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/Front50PolicyPlugin-v1.0.2-SNAPSHOT.zip"
+    }
+  ]
+}
+]
