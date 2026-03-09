@@ -15,7 +15,7 @@
     ]
   },
    {
-    "id": "Opsmx.PipelineRuntimePolicyValidation",
+    "id": "Opsmx.PipelineRuntimePolicyPlugin",
     "description": "An example of a PF4J-based plugin that provides a Pipeline Runtime Policy validation.",
     "provider": "https://github.com/opsmx",
     "releases": [
