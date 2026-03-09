@@ -1,19 +1,4 @@
-[
-    {
-    "id": "Opsmx.RuntimePipelineValidatePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-06-24T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "62c7a81a6bb8711cd4492841b7390a4aa93a5ed8802cfe54c6da2dc6e97fc42f979d13daa5ce73bcfeac3a713c84d9d7b3b9fc2b35e86162faf4bff67a134d94",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/OrcaPipelineValidatePlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
+[    
    {
     "id": "Opsmx.PipelineRuntimePolicyPlugin",
     "description": "An example of a PF4J-based plugin that provides a Pipeline Runtime Policy validation.",
