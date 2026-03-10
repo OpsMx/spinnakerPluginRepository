@@ -10,7 +10,7 @@
         "requires": "orca>=0.0.0",
         "sha512sum": "ac37767953bd6a506c03d1c1c2b509e8f25c396356eb0f8239be2125f1666c0c8195f7499ed82868dc4080bdff08f3c421c427c27b3aa110cd72d16e0cf085f3",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/OES-custom-policy-plugin-OP-24522/PipelineRuntimePolicyValidation-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/OES-pipeline-policy-plugin-OP-24522/PipelineRuntimePolicyValidation-v1.0.1-SNAPSHOT.zip"
       }
     ]
   } 
