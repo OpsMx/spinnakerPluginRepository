@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2026-03-09T16:20:59.469168Z",
         "requires": "orca>=0.0.0",
-        "sha512sum": "ac37767953bd6a506c03d1c1c2b509e8f25c396356eb0f8239be2125f1666c0c8195f7499ed82868dc4080bdff08f3c421c427c27b3aa110cd72d16e0cf085f3",
+        "sha512sum": "d6da273780e0b42ac98a96ee5bd3906cca86646ffa61dbecb09bc47cd3e3e85c65c531da5114e783526d2370d43cd16e74db5ea48c0f2de154ccb53b69cc670e",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/OES-pipeline-policy-plugin-OP-24522/PipelineRuntimePolicyValidation-v1.0.1-SNAPSHOT.zip"
       }
