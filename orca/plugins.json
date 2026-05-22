@@ -5,12 +5,12 @@
     "provider": "https://github.com/opsmx",
     "releases": [
       {
-        "version": "v1.0.4-SNAPSHOT",
+        "version": "1.0.4",
         "date": "2026-05-21T14:33:45.868422Z",
         "requires": "orca>=0.0.0",
         "sha512sum": "b3d9d24f0408bd1ccc5300fdf7b9972c5b3422d68ebc740fe1f3be2f7a42bbfa0123211f1924633eff5c4db342c4626aec43d3e22c125e333dfd4e49994b7677",
         "state": "",
-        "url": "https://raw.githubusercontent.com/OpsMx/spinnakerPluginRepository/refs/heads/Zendesk-opa-test/orca/OrcaPolicyPlugin-v1.0.3-SNAPSHOT.zip"
+        "url": "https://raw.githubusercontent.com/OpsMx/spinnakerPluginRepository/refs/heads/Zendesk-opa-test/orca/OrcaPolicyPlugin-v1.0.4-SNAPSHOT.zip"
       }
     ]
   }
