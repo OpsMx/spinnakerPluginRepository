@@ -20,11 +20,11 @@
     "provider": "TODO",
     "releases": [
         {
-            "version": "1.0.9",
-            "date": "2026-05-29T11:37:13.845587Z",
+            "version": "1.0.1",
+            "date": "2026-06-02T07:07:33.628618Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "e20407978958ea5ff4f2296102467984c2491f5618e8ed247af5afc5248c4eef672278bb46b92ec00d69e78713cc8f7c550646c3bb4710ad0e27198311b6e3a6",
-            "url": "https://github.com/OpsMx/Customplugins/releases/download/jvm-metrics/armory-observability-plugin-v1.0.9.zip"
+            "sha512sum": "cf0887265f6977aa214a20a5b913daa3f15c26716a9d4ba953d58fa4e65bd9f7eb7a19bcc822f4d319cd06ee9c499066097ff78f421b812e9bfd449872976e81",
+            "url": "https://github.com/OpsMx/Customplugins/releases/download/wu-jvm-metrics/armory-observability-plugin-v1.0.1.zip"
 
         }
     ]
