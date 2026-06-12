@@ -16,7 +16,7 @@
         "version": "1.0.2",
         "date": "2026-06-12T12:25:59.469168Z",
         "requires": "orca>=0.0.0",
-        "sha512sum": "5e49b78ae0a00e5f79839b4997c5904baf1d578f4936684b1457d8e18ce60a0a0c9858e75c4ddf4d97d9b0a5abdbc4e759ecd5682b0c2612c24be0803a765ea7",
+        "sha512sum": "34a25fe2e7d7e73b19689ab3473f9ee785338e1e71387bb37a7b4426ae3744949259fbe6d55e5820ca50f859d1c73cafc9fd6c997c886afbc5dfb75bf47b6383",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/ISD-Manualjudgment-pipeline-policy-plugin-OP-24522/PipelineRuntimePolicyValidation-v1.0.2-SNAPSHOT.zip"
       }
