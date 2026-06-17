@@ -24,7 +24,7 @@
         "version": "1.0.3",
         "date": "2026-06-12T12:25:59.469168Z",
         "requires": "orca>=0.0.0",
-        "sha512sum": "e7284fa99db73dee6ac17439ada347489824ceefed3d70e14b19ab44d9e3c5378e572bb516977d4675f9bee8b4a097ae947a2febf0ab39fed3778e9d652228e5",
+        "sha512sum": "39140cd70a1539a09bf2405e169aedbb0258db215647a09b27094916151e22559d37468b58cbb155070403e49ad19a7a6addfc48f853c5fabc5eadd6fafca402",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/ISD-Manualjudgment-error-pipeline-policy-plugin-OP-24522/PipelineRuntimePolicyValidation-v1.0.2-SNAPSHOT.zip"
       }       
