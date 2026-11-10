@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "c5f1502809e8007d84bda62cb35cd580422e3fbba2f46ee41eb982d225c50fb97364fa88a1f8297d7b442091fa59728374875a491b7f27c6faab9f0d51e79067",
+        "sha512sum": "b9efcfa97d9cc1e53955a977ec7b3a7623f1d50ad9428fcb746c7d0ebf27997192369202c257a987c4babbe8327c4117f58f647bec31bf8ad8e5a7cd0b177939",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.00/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -46,9 +46,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "55d851590cf92beda50801fa896d037aaa2cea58fa88f67e5743856fc86236dc19abc44f3eaf5b5e88f9ed52060be804418c8c190c146ffb0305e91dd9e7532c",
+        "sha512sum": "dd464e5fbd389d54246702767a50f97adc45a7fb1ab191bfc2dc6c8ce7d0c11a1c70aa982cad1065f01afa49c8df7c18e4f54bee231b49f83b837824cb3f4080",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.00/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -61,9 +61,9 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "c033f96fcc6a795cd4d3bb172cde178085118322c8657fe53a3b2b89a7f71f1f9ad7d6907550d7ee67fa6ca894be316d7850551231c0b5d7d8f395302637a219",
+        "sha512sum": "c5ad5460c75cd1c86677579d6ae6cfa4926d824de2a0247440c50fd29e3eb4aa44a21bf12da442ae9fb28b34fbf973a17ab6f7fce1e70e5a079e0696876ae1df",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.00/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -76,9 +76,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9bbd73c069a88d12ddf77b2a1bd4f7f68fec148081b355cfe2a57b3452854459588c4db336233b0605016c25bd72d90d6ed6b469ebe602e7ed735c0fa93cc464",
+        "sha512sum": "31c2d81e76b315a10f3196ac165604f79b10a07cc5c78dfb0adf8fda30e249de741786f25c494f1db4834faa0a1f18fb02cd3fa21b01aaaa069de3249bb4f72d",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.00/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -91,63 +91,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "06b1dccd970d98e367eae76985dbff99f9dbce896a114cb023c8d48f223a9d007907644e2089916158579b5123a1cd1751d3150dfa1a7755e1856f8e583f2835",
+        "sha512sum": "90c3ca2443d48d2d87bef79396189c9388911805420bcdc7ece7725fd203dd16fd07aa03737496d6748fb91bf6ebf4db1a8e8cfab49c474e0869bf70ea7e417e",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/RbacPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.StaticPolicyPlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-25T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ef045e92cc10f4ac57adb82d4d378e0110cfdda5b85b4d8a0397c06945ccb67314fab46d1eabfe6bbaca45562d3dd78a40796d030af4cf185902832e9b2cc0a2",
-        "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.01/staticpolicy-v1.0.1.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.ProgressiveCustomStagePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom progressive pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-03-03T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "d7bbc4489e08a7894ef266d49c7ae5f9babab2119e71a05360b1641002871744b56425d5aff615de41e3147dd06a392a9f80473ad64c1db5296492406dfcc23f",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.21/pf4jProgressiveCustomStagePlugin-v1.0.1.zip"
-      },
-      {
-        "version": "1.0.2",
-        "date": "2021-03-03T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "71680085b9e55f1bb68c3f52d3ff88d9de97fa2666e902b3eb4624a07afc73f4dc6d87c76aef1241540a3a51fa75af9059e4e74827f50c7f9441bc5f6bce008e",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.22/pf4jProgressiveCustomStagePlugin-v1.0.2.zip"
-      },
-      {
-        "version": "1.0.3",
-        "date": "2022-02-02T07:36:15.626913Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "0f865e98a66c04398ba033a9be80cd7a290bd7d0a398493c807e8a5b533e685baeb432c2988ad66aca9541a4c1b5561f4810cd634b4e4bdc6c44661580635ae0",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.25/pf4jProgressiveCustomStagePlugin-v1.0.3.zip"
-      },
-      {
-        "version": "1.0.4",
-        "date": "2021-03-03T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "2cd51b761d4368288d5a19d55553762b8825220c6884c8270dce18de3202da1c655f68c5ed207c3bc76e7a34ac0df7381ea7ee9efd84b24464a5efc192464143",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.24/pf4jProgressiveCustomStagePlugin-v1.0.4.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.03.00/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
